@@ -119,7 +119,7 @@ cd PSADT-Wizard
 4. Review the generated changes.
 5. Validate the package.
 6. Test deployment.
-7. Deploy using your preferred endpoint management solution.
+7. Deploy using Omnissa Workspace ONE UEM.
 
 ---
 
