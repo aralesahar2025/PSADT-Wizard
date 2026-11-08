@@ -147,13 +147,9 @@ Architecture: x64
 
 ## Screenshots
 
-### Wizard Startup
+![Wizard Part 1](screenshots/Wizard1.png)
 
-![Wizard Startup](screenshots/start.png)
-
-### Package Configuration
-
-![Configuration](screenshots/configuration.png)
+![Wizard Part 2](screenshots/Wizard2.png)
 
 ### Generated Output
 
