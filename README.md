@@ -153,7 +153,7 @@ Architecture: x64
 
 ### Generated Output
 
-![Output](screenshots/output.png)
+![Generated Output](screenshots/Output.png)
 
 ---
 
