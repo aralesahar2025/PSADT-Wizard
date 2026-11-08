@@ -220,6 +220,6 @@ GitHub: https://github.com/aralesahar
 
 ## Acknowledgments
 
-Special ity for creating and maintaining one of the most widely used Windows application deployment frameworks available today.
+Speciality for creating and maintaining one of the most widely used Windows application deployment frameworks available today.
 
 This project exists because of the excellent foundation PSAppDeployToolkit provides to the endpoint management community.
