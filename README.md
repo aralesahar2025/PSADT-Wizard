@@ -48,20 +48,8 @@ PSADT Wizard automates these repetitive tasks and promotes a more consistent pac
 
 ✅ Packaging workflow optimization
 
----
 
-## Supported Management Platforms
-
-Packages created using PSAppDeployToolkit can be used with:
-
-- Omnissa Workspace ONE UEM
-- Microsoft Intune
-- Microsoft Configuration Manager (SCCM/MECM)
-- Ivanti Endpoint Manager
-- PDQ Deploy
-- Other software distribution and endpoint management platforms
-
----
+Packages created using PSAppDeployToolkit can be used with Omnissa Workspace ONE UEM
 
 ## Recommended Detection Strategy
 
